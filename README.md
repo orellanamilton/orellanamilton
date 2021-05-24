@@ -2,7 +2,6 @@
 
 - ⚛️ Desarrollo con **ReactJs**
 - 📱 Estoy aprendiendo **Swift** para poder dedsarrollar en **iOS**
-- 🎨 Tengo conocimos en **UX/UI**
 
 ### 📬 Get in Touch
 
